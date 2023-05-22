@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f91f53cc","path":"/en/guide/bar/baz.html","title":"Baz","lang":"en-US","frontmatter":{"title":"Baz","icon":"info"},"headers":[],"git":{"updatedTime":1684723811000,"contributors":[{"name":"hebo","email":"hb925822@126.com","commits":1}]},"filePathRelative":"en/guide/bar/baz.md"}');export{e as data};

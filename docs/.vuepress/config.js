@@ -10,7 +10,7 @@ import { defineUserConfig,defaultTheme } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 // import theme from "./theme.js";
 export default defineUserConfig({
-    base: '/',
+    base: '/hb0832/',
     theme: defaultTheme({
         // 侧边栏数组
         // 所有页面会使用相同的侧边栏
@@ -47,4 +47,5 @@ export default defineUserConfig({
       },
   title: '你好， VuePress ！',
   description: '这是我的第一个 VuePress 站点',
+  dest: 'blogs'
 })
